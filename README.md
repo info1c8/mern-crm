@@ -1,1 +1,1 @@
-# mern-crm
+# Разработка Full стека mern-crm
